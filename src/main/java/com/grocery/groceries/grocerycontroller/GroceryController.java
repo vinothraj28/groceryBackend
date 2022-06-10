@@ -13,7 +13,7 @@ import com.grocery.groceries.grocery.Grocery;
 import com.grocery.groceries.grocery.service.GroceryService;
 
 @RestController
-@CrossOrigin(origins="http://localhost:3001")
+@CrossOrigin(origins="http://localhost:3000")
 public class GroceryController {
 	
 	@Autowired
